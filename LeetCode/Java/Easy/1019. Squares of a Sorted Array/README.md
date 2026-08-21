@@ -1,4 +1,4 @@
-# 📝 1019. Squares of a Sorted Array (LeetCode)
+# 📝 977. Squares of a Sorted Array (LeetCode)
 
 🔗 [Problem Link](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
