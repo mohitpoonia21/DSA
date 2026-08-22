@@ -8,8 +8,8 @@
 Array, Binary Search, Ternary Search
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 80.2 MB
 
 ---
 
@@ -46,4 +46,4 @@ Your task is to solve it in  `O(log(n))`  time complexity.
 	
 - `0 <= arr[i] <= 106`
 	
-- `arr`  is  **guaranteed**  to be a mountain array.
+- `arr`  is  **guaranteed**  to be a mountain 
