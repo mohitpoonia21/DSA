@@ -15,7 +15,7 @@ class Solution {
 
                 int mid = start +(end-start)/2;
 
-                if(arr[mid]<=arr[end]){
+                if(arr[mid]<=arr[n-1]){
                     end = mid-1;
                 }
                 else{
