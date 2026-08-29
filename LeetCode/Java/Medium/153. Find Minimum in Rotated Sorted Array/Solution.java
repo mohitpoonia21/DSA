@@ -7,7 +7,7 @@ class Solution {
 
         int ans = -1; // ans ko -1 initialize krenge
 
-        if(nums[0]<nums[n-1]){ // agr array rotated sorted na ho toh array ka phla element hi sbse chhota hoga toh sidha usse hi return krdenge
+        if(nums[0]<nums[n-1] ){ // agr array rotated sorted na ho toh array ka phla element hi sbse chhota hoga toh sidha usse hi return krdenge
             return nums[0];
         }
 
