@@ -1,13 +1,13 @@
 class Solution {
     public int findMin(int[] nums) {
 
-        int n = nums.length;
+        int n = nums.length; // array ki length
         int start = 0;
         int end = n-1;
 
-        int ans =-1;
+        int ans = -1; // ans ko -1 initialize krenge
 
-        if(nums[0]<nums[n-1]){
+        if(nums[0]<nums[n-1]){ // agr array rotated sorted na ho toh array ka phla element hi sbse chhota hoga toh sidha usse hi return krdenge
             return nums[0];
         }
 
@@ -15,17 +15,14 @@ class Solution {
 
             int mid = start + (end-start)/2;
 
-            if(nums[mid]>=nums[n-1]){
-                ans = mid+1;
+            if(nums[mid]>=nums[n-1]){ // jbb array k mid ki value last value se badi ya barabar h mtlb L1 m h toh potenital answer ko store krlenge aur chceck krenge agr usse badi koi value bhi h toh islie right m move krenge
+                ans = mid+1; // +1 islie kiya kyonki smallest value pivotindex se next index p present hogi 
                 start= mid+1;
             }
-            else{
+            else{ //jbb array k mid ki value last value se chhoti h mtlb L2 m h toh left m move krenge
                 end = mid-1;
             }
-
        }
-       return nums[ans];
-       
-    }
-    
+       return nums[ans]; 
+    }  
 }
