@@ -23,6 +23,6 @@ class Solution {
                 end = mid-1;
             }
        }
-       return num; 
+       return nums[ans]; 
     }  
 }
