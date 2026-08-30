@@ -5,7 +5,7 @@ class Solution {
         int start = 0;
         int end = n-1;
 
-        if(target>letters[n-1]){ //agr target last character se bada h mtlb usse bada chracter array m exist nahi krta toh first character return krdenge as per our problem statement
+        if(target>=letters[n-1]){ //agr target last character se bada h mtlb usse bada chracter array m exist nahi krta toh first character return krdenge as per our problem statement
             return letters[0];
         }
 
