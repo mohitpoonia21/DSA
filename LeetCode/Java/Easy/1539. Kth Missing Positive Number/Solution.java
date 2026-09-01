@@ -8,12 +8,12 @@ class Solution {
         while(start<=end){
             int mid = start + (end-start)/2;
 
-            int missing = arr[mid] - (mid+1);
+            int missing = arr[mid] - (mid+1); // mid ki value se mid ka index minus krlo jo result aayga utne hi missing no's honge
 
-            if(missing < k){
+            if(missing < k){ // agr missing target se km h toh right move krenge
                 start = mid+1;
             }
-            else{
+            else{  // agr missing target se jyaada ya barabr h toh left move krenge
                 end = mid-1;
             }
         }
