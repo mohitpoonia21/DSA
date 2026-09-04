@@ -15,7 +15,7 @@ class Solution {
 
         while(start<=end){
             int mid = start + (end - start)/2; // mid basically speed h banana khaane ki
-            int totalHours = 0; // har baar totalHours ko 0 krdenge each iteration k liye
+            long totalHours = 0; // har baar totalHours ko 0 krdenge each iteration k liye
 
             for(int i = 0;i<n;i++){
                 int hours = (piles[i] + mid - 1) / mid; // kitne ghnte lgenge ek pile of banana khane m current speed yani mid se 
