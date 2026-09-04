@@ -1,4 +1,4 @@
-# 📝 875. Koko Eating Bananas (LeetCode)
+# 📝 907. Koko Eating Bananas (LeetCode)
 
 🔗 [Problem Link](https://leetcode.com/problems/koko-eating-bananas/)
 
@@ -8,8 +8,8 @@
 Array, Binary Search
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 96 ms
+- **Memory:** 48 MB
 
 ---
 
