@@ -47,7 +47,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 ### 📂 Binary Search
 - [ ] Binary Search
 - [ ] Search a 2D Matrix
-- [x] [Koko Eating Bananas](./Java/Medium/875. Koko Eating Bananas/)
+- [x] [Koko Eating Bananas](./Java/Medium/907. Koko Eating Bananas/)
 - [x] [Find Minimum in Rotated Sorted Array](./Java/Medium/153. Find Minimum in Rotated Sorted Array/)
 - [ ] Search in Rotated Sorted Array
 - [ ] Time Based Key-Value Store
