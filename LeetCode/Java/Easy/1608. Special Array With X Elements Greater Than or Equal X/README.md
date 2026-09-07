@@ -1,4 +1,4 @@
-# 📝 1608. Special Array With X Elements Greater Than or Equal X (LeetCode)
+# 📝 1730. Special Array With X Elements Greater Than or Equal X (LeetCode)
 
 🔗 [Problem Link](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 
@@ -8,8 +8,8 @@
 Array, Binary Search, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 43.3 MB
 
 ---
 
