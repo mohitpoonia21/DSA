@@ -1,4 +1,4 @@
-# 📝 1730. Special Array With X Elements Greater Than or Equal X (LeetCode)
+# 📝 1608. Special Array With X Elements Greater Than or Equal X (LeetCode)
 
 🔗 [Problem Link](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 
