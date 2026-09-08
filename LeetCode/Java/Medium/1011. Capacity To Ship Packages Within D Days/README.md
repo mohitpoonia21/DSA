@@ -1,4 +1,4 @@
-# 📝 1011. Capacity To Ship Packages Within D Days (LeetCode)
+# 📝 1011.Capacity To Ship Packages Within D Days (LeetCode)
 
 🔗 [Problem Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 
@@ -8,8 +8,8 @@
 Array, Binary Search
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 10 ms
+- **Memory:** 50.4 MB
 
 ---
 
