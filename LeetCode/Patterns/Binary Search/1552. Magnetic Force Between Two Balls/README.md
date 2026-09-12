@@ -1,6 +1,6 @@
 # 📝 1552. Magnetic Force Between Two Balls (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/magnetic-force-between-two-balls/)
+🔗 [Problem Link](https://leetcode.com/problems/magnetic-force-between-two-balls)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
