@@ -1,4 +1,4 @@
-# 📝 1552. Magnetic Force Between Two Balls (LeetCode)
+# 📝 1552.Magnetic Force Between Two Balls (LeetCode)
 
 🔗 [Problem Link](https://leetcode.com/problems/magnetic-force-between-two-balls/)
 
@@ -8,8 +8,8 @@
 Array, Binary Search, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 49 ms
+- **Memory:** 79.2 MB
 
 ---
 
