@@ -1,4 +1,4 @@
-# 📝 1450. Number of Students Doing Homework at a Given Time (LeetCode)
+# 📝 1450.  Number of Students Doing Homework at a Given Time (LeetCode)
 
 🔗 [Problem Link](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
 
@@ -8,8 +8,8 @@
 Array
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 43.2 MB
 
 ---
 
