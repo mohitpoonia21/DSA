@@ -1,4 +1,4 @@
-# 📝 1678. Goal Parser Interpretation (LeetCode)
+# 📝 1678.  Goal Parser Interpretation (LeetCode)
 
 🔗 [Problem Link](https://leetcode.com/problems/goal-parser-interpretation/)
 
@@ -8,8 +8,8 @@
 String
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 43.2 MB
 
 ---
 
