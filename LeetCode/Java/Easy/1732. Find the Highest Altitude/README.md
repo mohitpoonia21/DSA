@@ -1,6 +1,6 @@
-# 📝 1732. Find the Highest Altitude (LeetCode)
+# 📝 1732.Find the Highest Altitude (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-the-highest-altitude)
+🔗 [Problem Link](https://leetcode.com/problems/find-the-highest-altitude/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Prefix Sum
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 42.5 MB
 
 ---
 
